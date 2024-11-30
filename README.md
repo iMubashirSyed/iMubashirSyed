@@ -4,17 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imubashirsyed&label=Profile%20views&color=0e75b6&style=flat" alt="imubashirsyed" /> </p>
 <img align="right" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWmVrs42HjdMnHhqXb-pXtYo0OIK3vj2phNOateMYSM1sxkIju3P92p7bsZUIKjtiD3UXLCOdOCuYEXALbj7c6CS8ED396miwL-NaVI8A23mQ58SwJd1kB2YbA2sN2_w8dc21gkGOMe35bhgb8fSHSGdlAusq8BZUoiy3lQ71I8EBFTGhBBA6ePUUbwr26/s800/Laptop%20GIFs.gif">
 
+- 🎓 Currently pursuing a **Bachelor's degree in Software Engineering**
+- 
 - 🌱 Enthusiastic about **Backend Development and Artificial Intelligence**
 
 - 💬 Ask me about **anything related to Backend Development using Django**
-
-- 🎓 Currently pursuing a **Bachelor's degree in Software Engineering**
-
+- 
 - ⚡ Fun fact **Error 404. Not Found.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/syed-mubashir-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-mubashir-ali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/syed-mubashir-ali" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt](https://www.linkedin.com/in/syed-mubashir-ali-15a217253/).svg" alt="syed-mubashir-ali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
