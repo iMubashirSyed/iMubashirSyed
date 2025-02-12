@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Syed Mubashir Ali</h1>
-<h3 align="center">Glad to see you here!</h3>
+<h1>Hi, I'm Syed Mubashir Ali</h1>
+<h3>Glad to see you here!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imubashirsyed&label=Profile%20views&color=0e75b6&style=flat" alt="imubashirsyed" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=imubashirsyed&label=Profile%20views&color=0e75b6&style=flat" alt="imubashirsyed" /> </p> -->
 <img align="right" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWmVrs42HjdMnHhqXb-pXtYo0OIK3vj2phNOateMYSM1sxkIju3P92p7bsZUIKjtiD3UXLCOdOCuYEXALbj7c6CS8ED396miwL-NaVI8A23mQ58SwJd1kB2YbA2sN2_w8dc21gkGOMe35bhgb8fSHSGdlAusq8BZUoiy3lQ71I8EBFTGhBBA6ePUUbwr26/s800/Laptop%20GIFs.gif">
 
 - 🎓 Currently pursuing a **Bachelor's degree in Software Engineering**
