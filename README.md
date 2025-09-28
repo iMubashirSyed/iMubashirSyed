@@ -1,3 +1,5 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <h1>Hi, I'm Syed Mubashir Ali</h1>
 <h3>Glad to see you here!</h3>
 
@@ -6,11 +8,11 @@
 
 - 🎓 Currently pursuing a **Bachelor's degree in Software Engineering**
   
-- 🌱 Enthusiastic about **Backend Development and Artificial Intelligence**
+- ⚡ Currently focused on **Full Stack Deveopment**
 
-- 💬 Ask me about **anything related to Backend Development using Django**
+- ⚡ I build fast, responsive websites and web apps **THAT DONT SUCK**
   
-- ⚡ Fun fact **Error 404. Not Found.**
+- ⚡ Not so fun fact **So much universe, so little time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
