@@ -6,13 +6,13 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=imubashirsyed&label=Profile%20views&color=0e75b6&style=flat" alt="imubashirsyed" /> </p> -->
 <img align="right" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWmVrs42HjdMnHhqXb-pXtYo0OIK3vj2phNOateMYSM1sxkIju3P92p7bsZUIKjtiD3UXLCOdOCuYEXALbj7c6CS8ED396miwL-NaVI8A23mQ58SwJd1kB2YbA2sN2_w8dc21gkGOMe35bhgb8fSHSGdlAusq8BZUoiy3lQ71I8EBFTGhBBA6ePUUbwr26/s800/Laptop%20GIFs.gif">
 
-- 🎓 Currently pursuing a **Bachelor's degree in Software Engineering**
+🎓 Currently pursuing a **Bachelor's degree in Software Engineering**
   
-- ⚡ Currently focused on **Full Stack Deveopment**
+⚡ Currently focused on **Full Stack Development**
 
-- ⚡ I build fast, responsive websites and web apps **THAT DONT SUCK**
+⚡ I build fast, responsive websites and web apps **THAT DONT SUCK**
   
-- ⚡ Not so fun fact **So much universe, so little time**
+⚡ Not so fun fact **So much universe, So little time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
